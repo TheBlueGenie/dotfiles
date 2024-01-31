@@ -1,0 +1,14 @@
+live_config_reload = true
+
+[window]
+	padding = { x=5, y=5 }
+	opacity = 0.9
+	decorations_theme_variant = "Dark"
+
+[font]
+	normal = { family = "Hack Nerd Font Mono" }
+	size = 11 
+
+[colors.primary]
+	background = "#000000"
+	foreground = "#d8d8d8"
