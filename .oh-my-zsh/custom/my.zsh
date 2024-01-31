@@ -7,3 +7,5 @@ alias pj="cd ~/projects"
 alias gc="git clone"
 alias gs="git status"
 alias ga="git add"
+
+[ -z "$TMUX"  ] && { tmux attach || exec tmux new-session && exit;}
