@@ -6,7 +6,7 @@ live_config_reload = true
 	decorations_theme_variant = "Dark"
 
 [font]
-	normal = { family = "Hack Nerd Font Mono" }
+	normal = { family = "JetBrainsMono Nerd Font", style = "Bold"}
 	size = 11 
 
 [colors.primary]
